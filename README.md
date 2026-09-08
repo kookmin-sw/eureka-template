@@ -6,13 +6,13 @@
 
 ## 🖼️ 팀 포스터
 
-<p align="center"><img src="poster.png" alt="팀 포스터" width="600"/></p>
+<p align="center"><img src="poster.jpg" alt="팀 포스터" width="600"/></p>
 
 <p align="center"><sub>이정문 화백, 「서기 2000년대 생활의 이모저모」(1965). 출처: <a href="https://v.daum.net/v/d4FeeJV0EN">전자신문 [과학 핫이슈] 1965년에 상상한 2000년대, 지금 그려보는 20년 후</a></sub></p>
 
 1965년에 35년 뒤의 생활을 상상해 그린 이 그림처럼, 우리 팀이 그리는 미래를 포스터로 만들어 봅시다.
-팀 활동으로 만든 포스터를 `poster.png` 파일 이름으로 이 repository에 업로드하면 위 그림이 팀 포스터로 바뀝니다.
-파일 이름이 다르거나 jpg 파일이면 위 `<img src="poster.png">`의 파일 이름을 맞추고, 출처 문구도 팀에 맞게 고쳐 주세요.
+팀 활동으로 만든 포스터를 `poster.jpg` 파일 이름으로 이 repository에 업로드하면 위 그림이 팀 포스터로 바뀝니다.
+파일 이름이 다르거나 png 파일이면 위 `<img src="poster.jpg">`의 파일 이름을 맞추고, 출처 문구도 팀에 맞게 고쳐 주세요.
 
 ***
 
